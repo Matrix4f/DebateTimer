@@ -1,0 +1,4 @@
+DebateTimer-win32-x64/
+release-builds/
+*.bat
+node_modules/
