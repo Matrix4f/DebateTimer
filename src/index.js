@@ -2,6 +2,7 @@ const {app, BrowserWindow, Menu, globalShortcut, ipcMain} = require('electron');
 const electron = require('electron');
 const path = require('path');
 const url = require('url');
+
 const release = true;
 const WINDOW_HEIGHT = !release ? 215 : 156;
 
