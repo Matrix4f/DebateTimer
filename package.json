@@ -13,7 +13,7 @@
     "electron-packager": "^12.2.0"
   },
   "scripts": {
-    "start": "electron .",
+    "start": "electron src\index.js",
     "buildDev": "electron-packager . DebateTimer --overwrite --asar=true --icon=icon.ico --platform=win32 --arch=ia32 --prune=true --out=release-builds --version-string.CompanyName=SohamGovande --version-string.FileDescription=ddd --version-string.ProductName=\"Debate Timer\"",
     "build": "electron-packager . DebateTimer --overwrite --platform=win32 --ignore=node_modules/electron* --app-version=1.0.0"
   },

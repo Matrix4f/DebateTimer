@@ -10,7 +10,7 @@ var window = null;
 app.once('ready', () => {
 const electronScreen = electron.screen;
 
-  globalShortcut.register('CmdOrCtrl+B', function() {
+  globalShortcut.register('Alt+Shift+R', function() {
     window.webContents.send('keyboard-shortcut', 'pause-resume');
   });
   window = new BrowserWindow({
