@@ -3,6 +3,7 @@ A smooth digital timer with beautiful UI for competitive debate.
 
 ![Timer Image 1](assets/img1.png)
 ![Timer Image 1](assets/img2.png)
+
 ## Features
 - Timers for several types of debate
   - HS Policy
