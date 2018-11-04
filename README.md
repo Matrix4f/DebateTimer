@@ -30,18 +30,31 @@ These shortcuts can be used for *all* debate events!
 There are also shortcuts for specific events.
 
 ## Policy Debate
+
 **Constructive speech** - `Shift+C`
+
 **Rebuttal speech** - `Shift+R`
+
 **Cross-examination** - `Shift+X`
+
 ## Lincoln Douglas Debate
+
 **1AC, 1NR, and 2AR speeches** - `Shift+R`
+
 **1NC speech** - `Shift+C`
+
 **Cross-examiantion** - `Shift+X`
+
 ## Public Forum Debate
+
 **Constructive speech** - `Shift+C`
+
 **Summary and Final Focus speeches** - `Shift+S`
+
 **Crossfire** - `Shift+F`
+
 # Feedback
 Do not hesitate to provide me feedback and suggestions for improving this project!
-Contact me at vgsoham@gmail.com or by opening an issue on this repo.
+
+Contact me either by emailing vgsoham@gmail.com or by opening an issue on this repo.
 
