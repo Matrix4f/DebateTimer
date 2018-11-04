@@ -21,10 +21,13 @@ A smooth digital timer with beautiful UI for competitive debate.
 
 #  Keyboard Shortcuts
 ## Global Shortcuts
+
 These shortcuts can be used for *all* debate events!
 
 **Pause/resume timer** - `Alt+Shift+R` - Special shortcut that doesn't require the timer window to be selected
+
 **Aff prep** - `Shift+A` - Starts or resumes the affirmative's prep time
+
 **Neg prep** - `Shift+N` - Starts or resumes the negative's prep time
 
 There are also shortcuts for specific events.
