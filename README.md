@@ -1,4 +1,4 @@
-# DebateTimer
+# Debate Timer
 A smooth digital timer with beautiful UI for competitive debate.
 
 ![Timer Image 1](assets/img1.png)
