@@ -9,7 +9,7 @@
   "main": "src/index.js",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.4.0",
     "popper": "^1.0.1"
   },
 
